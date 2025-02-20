@@ -74,8 +74,4 @@ This is a fully functional e-commerce website built using PHP, HTML, AJAX, jQuer
 ## Contributing
 Feel free to contribute by creating pull requests or opening issues.
 
-## License
-This project is licensed under the MIT License.
 
-## Contact
-For any queries, contact: [your email or GitHub profile]
